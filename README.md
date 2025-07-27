@@ -1,2 +1,3 @@
-# Js_To_Ts
-Rough codes to start writing codes in typescript
+# Javascript To Typescript
+
+Codes/Learning to switch from javascript to typescript :)
